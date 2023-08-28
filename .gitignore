@@ -1,0 +1,5 @@
+.idea
+vendor
+.env
+*.sqlite
+src/Database/data/*.json
