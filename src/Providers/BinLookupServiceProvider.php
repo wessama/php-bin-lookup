@@ -4,7 +4,7 @@ namespace WessamA\BinLookup\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class BinlookupServiceProvider extends ServiceProvider
+class BinLookupServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
